@@ -5,8 +5,8 @@ spring:
       client:
         registration:
           auth0:
-            client-id: FuqLNRctUWYqiQKFrSoLkcgG60xZzQ6k
-            client-secret: E4pWdztu-LX9F3Zitdn-Yxc6TqR2jYxR1VHK_Dl29VVbUiIGuayQvhF3XGFqz-2L
+            client-id: rrha2rGtt5kORJnycNL94nzmNjYpMWEn
+            client-secret: UBA_i3YlP8rUBlV4dkwS6f0Yszlv1aKeuXei1KFEVPuV2iyxdbLvLQHtshNUYa-_
             scope:
               - openid
               - profile
